@@ -22297,3 +22297,1539 @@ LogInit: Object subsystem initialized
 [2017.04.13-15.28.56:805][562]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
 [2017.04.13-15.28.56:838][562]LogExit: GameNetDriver None shut down
 [2017.04.13-15.28.56:838][562]LogExit: GameNetDriver None shut down
+[2017.04.13-15.34.41:854][677]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx)
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: NodeAttribute, ItemCount : 105
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Model, ItemCount : 118
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Geometry, ItemCount : 13
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Material, ItemCount : 3
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: AnimationCurveNode, ItemCount : 358
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Container, ItemCount : 1
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: CollectionExclusive, ItemCount : 4
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: AnimationCurve, ItemCount : 438
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Deformer, ItemCount : 85
+[2017.04.13-15.34.41:872][677]LogFbx: ItemName: Constraint, ItemCount : 6
+[2017.04.13-15.34.41:878][677]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx
+[2017.04.13-15.34.41:985][677]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.34.43:334][677]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx
+[2017.04.13-15.34.43:441][677]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count -1447480928.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count -1447480928.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count -1447480928.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count 1564335000.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count -1447485008.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count 1295902032.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.43:452][677]LogFbx: 	Total Deformer Count -1447481008.
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:452][677]LogFbx: =================================================
+[2017.04.13-15.34.43:452][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:452][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.43:452][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count -1447481008.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count -1447481008.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count -1447481008.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count 1564335000.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count -1447481488.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count 1295899904.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.43:453][677]LogFbx: 	Total Deformer Count -1447480528.
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.43:453][677]LogFbx: =================================================
+[2017.04.13-15.34.43:453][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.43:453][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.43:453][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.43:455][677]LogFbx: Valid bind pose for Pose (skinCluster1) - polySurface249
+[2017.04.13-15.34.43:455][677]LogFbx: Valid bind pose for Pose (polySurface233_skinCluster) - polySurface249
+[2017.04.13-15.34.43:455][677]LogFbx: Valid bind pose for Pose (polySurface249_skinCluster) - polySurface249
+[2017.04.13-15.34.43:455][677]LogFbx: Valid bind pose for Pose (polySurface253_skinCluster) - polySurface249
+[2017.04.13-15.34.43:455][677]LogFbx: Valid bind pose for Pose (polySurface262_skinCluster) - polySurface249
+[2017.04.13-15.34.43:456][677]LogFbx: Valid bind pose for Pose (polySurface263_skinCluster) - polySurface249
+[2017.04.13-15.34.43:456][677]LogFbx: Valid bind pose for Pose (pSphere3_skinCluster) - polySurface249
+[2017.04.13-15.34.43:458][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert3'
+[2017.04.13-15.34.43:458][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert3'
+[2017.04.13-15.34.43:458][677]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.34.43:461][677]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.04.13-15.34.43:462][677]LogTemp:Display: Added material ShaderMap 0x0000025B5CE41600 with Material 0x0000025A4D632F80 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.43:499][677]LogTemp:Display: Kicking off shader compilation for lambert3, GameThreadShaderMap 0x0000025B5CE41600
+[2017.04.13-15.34.43:500][677]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.34.43:504][677]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.04.13-15.34.43:505][677]LogTemp:Display: Added material ShaderMap 0x0000025A55A16080 with Material 0x0000025A4D632F80 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.43:546][677]LogTemp:Display: Kicking off shader compilation for lambert3, GameThreadShaderMap 0x0000025A55A16080
+[2017.04.13-15.34.43:548][677]LogFbx: Triangulating skeletal mesh polySurface249
+[2017.04.13-15.34.43:650][677]LogFbx: Triangulating skeletal mesh polySurface253
+[2017.04.13-15.34.43:834][677]LogFbx: Triangulating skeletal mesh polySurface262
+[2017.04.13-15.34.44:067][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert2'
+[2017.04.13-15.34.44:067][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert2'
+[2017.04.13-15.34.44:068][677]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.34.44:070][677]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.04.13-15.34.44:071][677]LogTemp:Display: Added material ShaderMap 0x0000025AD400F900 with Material 0x0000025AD4A0D000 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.44:107][677]LogTemp:Display: Kicking off shader compilation for lambert2, GameThreadShaderMap 0x0000025AD400F900
+[2017.04.13-15.34.44:108][677]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.34.44:112][677]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.04.13-15.34.44:113][677]LogTemp:Display: Added material ShaderMap 0x0000025B6206E780 with Material 0x0000025AD4A0D000 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.44:150][677]LogTemp:Display: Kicking off shader compilation for lambert2, GameThreadShaderMap 0x0000025B6206E780
+[2017.04.13-15.34.44:152][677]LogFbx: Triangulating skeletal mesh polySurface233
+[2017.04.13-15.34.44:233][677]LogFbx: Triangulating skeletal mesh pSphere3
+[2017.04.13-15.34.44:306][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert5'
+[2017.04.13-15.34.44:306][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/lambert5'
+[2017.04.13-15.34.44:307][677]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert5.lambert5 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.34.44:310][677]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2017.04.13-15.34.44:311][677]LogTemp:Display: Added material ShaderMap 0x0000025B61438800 with Material 0x0000025A46C0A980 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.44:366][677]LogTemp:Display: Kicking off shader compilation for lambert5, GameThreadShaderMap 0x0000025B61438800
+[2017.04.13-15.34.44:368][677]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.34.44:371][677]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2017.04.13-15.34.44:372][677]LogTemp:Display: Added material ShaderMap 0x0000025B61B4AE80 with Material 0x0000025A46C0A980 to ShaderMapsBeingCompiled
+[2017.04.13-15.34.44:422][677]LogTemp:Display: Kicking off shader compilation for lambert5, GameThreadShaderMap 0x0000025B61B4AE80
+[2017.04.13-15.34.44:436][677]LogFbx: Triangulating skeletal mesh polySurface263
+[2017.04.13-15.34.48:406][677]LogFbx:Warning: Bones digested - 69  Depth of hierarchy - 12
+[2017.04.13-15.34.48:893][677]LogSkeletalMesh: Section 0: 2264 vertices, 6 active bones
+[2017.04.13-15.34.48:893][677]LogSkeletalMesh: Section 1: 448 vertices, 4 active bones
+[2017.04.13-15.34.48:895][677]LogSkeletalMesh: Section 2: 8399 vertices, 66 active bones
+[2017.04.13-15.34.48:935][677]LogSkeletalMesh: Section 0: Material=0, 2142 triangles
+[2017.04.13-15.34.48:935][677]LogSkeletalMesh: Section 1: Material=1, 706 triangles
+[2017.04.13-15.34.48:935][677]LogSkeletalMesh: Section 2: Material=2, 12436 triangles
+[2017.04.13-15.34.48:946][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset'
+[2017.04.13-15.34.48:947][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset'
+[2017.04.13-15.34.48:954][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton'
+[2017.04.13-15.34.48:954][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton'
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1781874048.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1781874048.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1781874048.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1560405280.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1781873088.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.48:960][677]LogFbx: 	Total Deformer Count 1560550656.
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:960][677]LogFbx: =================================================
+[2017.04.13-15.34.48:960][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:960][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.48:961][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.48:961][677]LogFbx: =================================================
+[2017.04.13-15.34.48:961][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.48:961][677]LogFbx: 	Total Deformer Count 1781872608.
+[2017.04.13-15.34.48:961][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:961][677]LogFbx: =================================================
+[2017.04.13-15.34.48:961][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:961][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.48:961][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.48:962][677]LogFbx: =================================================
+[2017.04.13-15.34.48:962][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.48:962][677]LogFbx: 	Total Deformer Count 1781872608.
+[2017.04.13-15.34.48:962][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:962][677]LogFbx: =================================================
+[2017.04.13-15.34.48:962][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:962][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.48:962][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.48:962][677]LogFbx: =================================================
+[2017.04.13-15.34.48:962][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1781872608.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1781872608.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1560405280.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1781871728.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1560550712.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.48:963][677]LogFbx: 	Total Deformer Count 1781871248.
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.48:963][677]LogFbx: =================================================
+[2017.04.13-15.34.48:963][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.48:963][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.48:963][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(0) root
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(1) pelvis
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(2) spine_01
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(3) spine_02
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(4) spine_03
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(5) clavicle_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(6) upperarm_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(7) L_shoulder_guard
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(8) lowerarm_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(9) hand_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(10) index_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(11) index_02_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(12) index_03_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(13) middle_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(14) middle_02_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(15) middle_03_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(16) pinky_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(17) pinky_02_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(18) pinky_03_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(19) ring_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(20) ring_02_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(21) ring_03_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(22) thumb_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(23) thumb_02_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(24) thumb_03_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(25) lowerarm_twist_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(26) upperarm_twist_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(27) clavicle_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(28) upperarm_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(29) R_shoulder_guard
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(30) lowerarm_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(31) R_hand_guard
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(32) hand_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(33) index_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(34) index_02_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(35) index_03_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(36) middle_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(37) middle_02_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(38) middle_03_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(39) pinky_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(40) pinky_02_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(41) pinky_03_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(42) ring_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(43) ring_02_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(44) ring_03_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(45) thumb_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(46) thumb_02_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(47) thumb_03_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(48) lowerarm_twist_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(49) upperarm_twist_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(50) neck_01
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(51) head
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(52) Jaw
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(53) L_eye
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(54) R_eye
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(55) thigh_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(56) calf_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(57) calf_twist_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(58) foot_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(59) ball_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(60) bigtoe_proximal_phalange_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(61) thigh_twist_01_l
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(62) thigh_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(63) calf_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(64) calf_twist_01_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(65) foot_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(66) ball_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(67) bigtoe_proximal_phalange_r
+[2017.04.13-15.34.48:966][677]LogFbx: SortedLinks :(68) thigh_twist_01_r
+[2017.04.13-15.34.48:969][677]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.34.48:970][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim'
+[2017.04.13-15.34.48:970][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim'
+[2017.04.13-15.34.50:301][677]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.ghoul_mesh_polySurface249_Anim
+[2017.04.13-15.34.50:313][677]LogFbx: Valid bind pose for Pose (skinCluster1) - bat
+[2017.04.13-15.34.50:313][677]LogFbx: Valid bind pose for Pose (polySurface233_skinCluster) - bat
+[2017.04.13-15.34.50:313][677]LogFbx: Valid bind pose for Pose (polySurface249_skinCluster) - bat
+[2017.04.13-15.34.50:313][677]LogFbx: Valid bind pose for Pose (polySurface253_skinCluster) - bat
+[2017.04.13-15.34.50:314][677]LogFbx: Valid bind pose for Pose (polySurface262_skinCluster) - bat
+[2017.04.13-15.34.50:315][677]LogFbx: Valid bind pose for Pose (polySurface263_skinCluster) - bat
+[2017.04.13-15.34.50:315][677]LogFbx: Valid bind pose for Pose (pSphere3_skinCluster) - bat
+[2017.04.13-15.34.50:316][677]LogFbx: Triangulating skeletal mesh bat
+[2017.04.13-15.34.50:441][677]LogFbx:Warning: Bones digested - 2  Depth of hierarchy - 2
+[2017.04.13-15.34.50:448][677]LogSkeletalMesh: Section 0: 1107 vertices, 1 active bones
+[2017.04.13-15.34.50:449][677]LogSkeletalMesh: Section 0: Material=0, 402 triangles
+[2017.04.13-15.34.50:452][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset'
+[2017.04.13-15.34.50:452][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset'
+[2017.04.13-15.34.50:455][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton'
+[2017.04.13-15.34.50:455][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton'
+[2017.04.13-15.34.50:458][677]LogFbx: =================================================
+[2017.04.13-15.34.50:458][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.50:458][677]LogFbx: 	Total Deformer Count 1560414464.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1560414464.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1560414464.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1560409376.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1560417184.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1645952632.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.50:459][677]LogFbx: 	Total Deformer Count 1560417824.
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:459][677]LogFbx: =================================================
+[2017.04.13-15.34.50:459][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:459][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.50:459][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.50:461][677]LogFbx: =================================================
+[2017.04.13-15.34.50:461][677]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.34.50:461][677]LogFbx: 	Total Deformer Count 1560417824.
+[2017.04.13-15.34.50:461][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:461][677]LogFbx: =================================================
+[2017.04.13-15.34.50:461][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:461][677]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.34.50:461][677]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.34.50:461][677]LogFbx: =================================================
+[2017.04.13-15.34.50:461][677]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.34.50:461][677]LogFbx: 	Total Deformer Count 1560417824.
+[2017.04.13-15.34.50:461][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:461][677]LogFbx: =================================================
+[2017.04.13-15.34.50:461][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:461][677]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.34.50:461][677]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.34.50:462][677]LogFbx: 	Total Deformer Count 1560417824.
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.34.50:462][677]LogFbx: 	Total Deformer Count 1560409376.
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.34.50:462][677]LogFbx: 	Total Deformer Count 1560413344.
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.34.50:462][677]LogFbx: 	Total Deformer Count 1645952576.
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.34.50:462][677]LogFbx: 	Total Deformer Count 1560413664.
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.34.50:462][677]LogFbx: =================================================
+[2017.04.13-15.34.50:462][677]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.34.50:462][677]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.34.50:462][677]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.34.50:465][677]LogFbx: SortedLinks :(0) bat_root
+[2017.04.13-15.34.50:465][677]LogFbx: SortedLinks :(1) bat_end
+[2017.04.13-15.34.50:465][677]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.34.50:465][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim'
+[2017.04.13-15.34.50:466][677]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim'
+[2017.04.13-15.34.50:482][677]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.ghoul_mesh_bat_Anim
+[2017.04.13-15.34.50:533][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:533][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:533][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:533][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:533][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:534][677]FBXImport:Warning: Warning Mesh [Geometry have no name] in the fbx file is not reference by any hierarchy node. 
+[2017.04.13-15.34.50:534][677]FBXImport:Warning: Warning Mesh 'polySurface262' has no UV set. Creating a default set. 
+[2017.04.13-15.34.50:534][677]FBXImport:Warning: Warning Mesh 'polySurface233' has no UV set. Creating a default set. 
+[2017.04.13-15.34.50:534][677]FBXImport:Warning: Warning Mesh 'bat' has no UV set. Creating a default set. 
+[2017.04.13-15.34.50:600][677]LogTemp:Display: Finished compile of shader map 0x0000025A55A16080
+[2017.04.13-15.34.50:600][677]LogTemp:Display: Shader map lambert3 complete, GameThreadShaderMap 0x0000025A55A16080, marking material lambert3 as finished
+[2017.04.13-15.34.50:600][677]LogTemp:Display: Marking material as finished 0x0000025A4D632F80
+[2017.04.13-15.34.54:285][808]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_99:PersistentLevel.Actor_27.DebugSkelMeshComponent_92) Already registered. Aborting.
+[2017.04.13-15.34.54:380][808]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_99:PersistentLevel.Actor_27.DebugSkelMeshComponent_92) - call TermArticulated first.
+[2017.04.13-15.34.54:608][809]LogTemp:Display: Finished compile of shader map 0x0000025B6206E780
+[2017.04.13-15.34.54:608][809]LogTemp:Display: Shader map lambert2 complete, GameThreadShaderMap 0x0000025B6206E780, marking material lambert2 as finished
+[2017.04.13-15.34.54:608][809]LogTemp:Display: Marking material as finished 0x0000025AD4A0D000
+[2017.04.13-15.34.57:887][915]LogTemp:Display: Finished compile of shader map 0x0000025B61B4AE80
+[2017.04.13-15.34.57:887][915]LogTemp:Display: Shader map lambert5 complete, GameThreadShaderMap 0x0000025B61B4AE80, marking material lambert5 as finished
+[2017.04.13-15.34.57:887][915]LogTemp:Display: Marking material as finished 0x0000025A46C0A980
+[2017.04.13-15.34.59:837][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset" SILENT=true
+[2017.04.13-15.34.59:849][ 17]LogSavePackage: Save=10.81ms
+[2017.04.13-15.34.59:849][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_Anim243A7B2C40AFE6C12D06FE876E6FD0AC.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset'
+[2017.04.13-15.34.59:853][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset
+[2017.04.13-15.34.59:857][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset" SILENT=true
+[2017.04.13-15.34.59:860][ 17]LogSavePackage: Save=1.72ms
+[2017.04.13-15.34.59:860][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_Skeleton2CDB4C8A4A358E6FAE0CB6BCE0C060A5.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset'
+[2017.04.13-15.34.59:866][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset
+[2017.04.13-15.34.59:872][ 17]LogSavePackage: Save=1.90ms
+[2017.04.13-15.34.59:872][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_PhysicsAssetF1E742E5471EFE0E9473A888C92C8498.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset.uasset'
+[2017.04.13-15.34.59:875][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset.uasset
+[2017.04.13-15.34.59:912][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset" SILENT=true
+[2017.04.13-15.34.59:967][ 17]LogSavePackage: Save=52.73ms
+[2017.04.13-15.34.59:967][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh303CCC6A4983D6F5CA31D1B433DDF801.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset'
+[2017.04.13-15.34.59:970][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset
+[2017.04.13-15.35.00:012][ 17]LogSavePackage: Save=12.91ms
+[2017.04.13-15.35.00:012][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_AnimB34EBE6F4388BEB66D8C52929EF3675B.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.uasset'
+[2017.04.13-15.35.00:018][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.uasset
+[2017.04.13-15.35.00:026][ 17]LogSavePackage: Save=2.76ms
+[2017.04.13-15.35.00:026][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_SkeletonAF8D92B94FFA7C966502969A14450B94.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton.uasset'
+[2017.04.13-15.35.00:029][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton.uasset
+[2017.04.13-15.35.00:057][ 17]LogSavePackage: Save=22.24ms
+[2017.04.13-15.35.00:057][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_PhysicsAssetC01618234DB50C5B3FDB4EA067291E26.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset.uasset'
+[2017.04.13-15.35.00:062][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset.uasset
+[2017.04.13-15.35.00:084][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert5" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset" SILENT=true
+[2017.04.13-15.35.00:097][ 17]LogSavePackage: Save=11.83ms
+[2017.04.13-15.35.00:097][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert5DADD2E7C43BF9DC9C2699487326F5CE9.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset'
+[2017.04.13-15.35.00:102][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset
+[2017.04.13-15.35.00:124][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert2" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset" SILENT=true
+[2017.04.13-15.35.00:137][ 17]LogSavePackage: Save=11.69ms
+[2017.04.13-15.35.00:137][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert2EADFC20F4D1ABE84012EC097F26B8F3D.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset'
+[2017.04.13-15.35.00:142][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset
+[2017.04.13-15.35.00:163][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert3" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset" SILENT=true
+[2017.04.13-15.35.00:176][ 17]LogSavePackage: Save=12.05ms
+[2017.04.13-15.35.00:177][ 17]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert381F89B91466EAEADDAEFB0A9BCBB8706.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset'
+[2017.04.13-15.35.00:180][ 17]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset
+[2017.04.13-15.35.16:979][867]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Attack.fbx)
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: NodeAttribute, ItemCount : 69
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: Model, ItemCount : 69
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: AnimationCurveNode, ItemCount : 276
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: Container, ItemCount : 1
+[2017.04.13-15.35.16:991][867]LogFbx: ItemName: AnimationCurve, ItemCount : 621
+[2017.04.13-15.35.16:997][867]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Attack.fbx
+[2017.04.13-15.35.17:061][867]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.35.20:598][867]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Idle.fbx)
+[2017.04.13-15.35.20:680][867]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Run.fbx)
+[2017.04.13-15.35.24:705][177]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_100:PersistentLevel.Actor_28.DebugSkelMeshComponent_93) Already registered. Aborting.
+[2017.04.13-15.35.24:773][177]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_100:PersistentLevel.Actor_28.DebugSkelMeshComponent_93) - call TermArticulated first.
+[2017.04.13-15.35.31:300][608]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Run.fbx)
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: NodeAttribute, ItemCount : 69
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: Model, ItemCount : 69
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: AnimationCurveNode, ItemCount : 276
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: Container, ItemCount : 1
+[2017.04.13-15.35.31:310][608]LogFbx: ItemName: AnimationCurve, ItemCount : 621
+[2017.04.13-15.35.31:317][608]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Run.fbx
+[2017.04.13-15.35.31:380][608]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.35.40:858][608]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Run.fbx
+[2017.04.13-15.35.40:925][608]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(0) root
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(1) pelvis
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(2) spine_01
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(3) spine_02
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(4) spine_03
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(5) clavicle_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(6) upperarm_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(7) L_shoulder_guard
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(8) lowerarm_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(9) hand_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(10) index_01_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(11) index_02_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(12) index_03_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(13) middle_01_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(14) middle_02_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(15) middle_03_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(16) pinky_01_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(17) pinky_02_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(18) pinky_03_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(19) ring_01_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(20) ring_02_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(21) ring_03_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(22) thumb_01_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(23) thumb_02_l
+[2017.04.13-15.35.40:930][608]LogFbx: SortedLinks :(24) thumb_03_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(25) lowerarm_twist_01_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(26) upperarm_twist_01_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(27) clavicle_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(28) upperarm_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(29) R_shoulder_guard
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(30) lowerarm_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(31) R_hand_guard
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(32) hand_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(33) index_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(34) index_02_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(35) index_03_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(36) middle_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(37) middle_02_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(38) middle_03_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(39) pinky_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(40) pinky_02_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(41) pinky_03_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(42) ring_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(43) ring_02_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(44) ring_03_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(45) thumb_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(46) thumb_02_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(47) thumb_03_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(48) lowerarm_twist_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(49) upperarm_twist_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(50) neck_01
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(51) head
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(52) Jaw
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(53) L_eye
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(54) R_eye
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(55) thigh_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(56) calf_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(57) calf_twist_01_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(58) foot_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(59) ball_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(60) bigtoe_proximal_phalange_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(61) thigh_twist_01_l
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(62) thigh_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(63) calf_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(64) calf_twist_01_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(65) foot_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(66) ball_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(67) bigtoe_proximal_phalange_r
+[2017.04.13-15.35.40:931][608]LogFbx: SortedLinks :(68) thigh_twist_01_r
+[2017.04.13-15.35.40:932][608]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.35.40:940][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run'
+[2017.04.13-15.35.40:940][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run'
+[2017.04.13-15.35.41:147][608]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.Ghoul_Run
+[2017.04.13-15.35.41:185][608]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Attack.fbx)
+[2017.04.13-15.35.41:199][608]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Attack.fbx
+[2017.04.13-15.35.41:264][608]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(0) root
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(1) pelvis
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(2) spine_01
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(3) spine_02
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(4) spine_03
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(5) clavicle_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(6) upperarm_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(7) L_shoulder_guard
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(8) lowerarm_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(9) hand_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(10) index_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(11) index_02_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(12) index_03_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(13) middle_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(14) middle_02_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(15) middle_03_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(16) pinky_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(17) pinky_02_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(18) pinky_03_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(19) ring_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(20) ring_02_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(21) ring_03_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(22) thumb_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(23) thumb_02_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(24) thumb_03_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(25) lowerarm_twist_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(26) upperarm_twist_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(27) clavicle_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(28) upperarm_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(29) R_shoulder_guard
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(30) lowerarm_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(31) R_hand_guard
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(32) hand_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(33) index_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(34) index_02_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(35) index_03_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(36) middle_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(37) middle_02_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(38) middle_03_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(39) pinky_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(40) pinky_02_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(41) pinky_03_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(42) ring_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(43) ring_02_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(44) ring_03_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(45) thumb_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(46) thumb_02_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(47) thumb_03_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(48) lowerarm_twist_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(49) upperarm_twist_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(50) neck_01
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(51) head
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(52) Jaw
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(53) L_eye
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(54) R_eye
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(55) thigh_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(56) calf_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(57) calf_twist_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(58) foot_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(59) ball_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(60) bigtoe_proximal_phalange_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(61) thigh_twist_01_l
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(62) thigh_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(63) calf_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(64) calf_twist_01_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(65) foot_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(66) ball_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(67) bigtoe_proximal_phalange_r
+[2017.04.13-15.35.41:270][608]LogFbx: SortedLinks :(68) thigh_twist_01_r
+[2017.04.13-15.35.41:272][608]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.35.41:279][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack'
+[2017.04.13-15.35.41:279][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack'
+[2017.04.13-15.35.41:561][608]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.Ghoul_Attack
+[2017.04.13-15.35.41:602][608]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Idle.fbx)
+[2017.04.13-15.35.41:618][608]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\animations\Ghoul_Idle.fbx
+[2017.04.13-15.35.41:687][608]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(0) root
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(1) pelvis
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(2) spine_01
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(3) spine_02
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(4) spine_03
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(5) clavicle_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(6) upperarm_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(7) L_shoulder_guard
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(8) lowerarm_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(9) hand_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(10) index_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(11) index_02_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(12) index_03_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(13) middle_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(14) middle_02_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(15) middle_03_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(16) pinky_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(17) pinky_02_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(18) pinky_03_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(19) ring_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(20) ring_02_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(21) ring_03_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(22) thumb_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(23) thumb_02_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(24) thumb_03_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(25) lowerarm_twist_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(26) upperarm_twist_01_l
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(27) clavicle_r
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(28) upperarm_r
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(29) R_shoulder_guard
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(30) lowerarm_r
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(31) R_hand_guard
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(32) hand_r
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(33) index_01_r
+[2017.04.13-15.35.41:693][608]LogFbx: SortedLinks :(34) index_02_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(35) index_03_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(36) middle_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(37) middle_02_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(38) middle_03_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(39) pinky_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(40) pinky_02_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(41) pinky_03_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(42) ring_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(43) ring_02_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(44) ring_03_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(45) thumb_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(46) thumb_02_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(47) thumb_03_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(48) lowerarm_twist_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(49) upperarm_twist_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(50) neck_01
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(51) head
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(52) Jaw
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(53) L_eye
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(54) R_eye
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(55) thigh_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(56) calf_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(57) calf_twist_01_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(58) foot_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(59) ball_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(60) bigtoe_proximal_phalange_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(61) thigh_twist_01_l
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(62) thigh_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(63) calf_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(64) calf_twist_01_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(65) foot_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(66) ball_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(67) bigtoe_proximal_phalange_r
+[2017.04.13-15.35.41:694][608]LogFbx: SortedLinks :(68) thigh_twist_01_r
+[2017.04.13-15.35.41:695][608]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.35.41:704][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle'
+[2017.04.13-15.35.41:705][608]LogLinker: Can't find file '/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle'
+[2017.04.13-15.35.42:252][608]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.Ghoul_Idle
+[2017.04.13-15.35.44:011][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset" SILENT=true
+[2017.04.13-15.35.44:028][712]LogSavePackage: Save=15.20ms
+[2017.04.13-15.35.44:028][712]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_Idle86CE6E904B15DB870CEA5195BDE655D3.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset'
+[2017.04.13-15.35.44:032][712]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset
+[2017.04.13-15.35.44:054][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset" SILENT=true
+[2017.04.13-15.35.44:069][712]LogSavePackage: Save=13.73ms
+[2017.04.13-15.35.44:069][712]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_Attack2FECB31D4AF0A332A00D0D948DA2AF97.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset'
+[2017.04.13-15.35.44:074][712]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset
+[2017.04.13-15.35.44:098][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset" SILENT=true
+[2017.04.13-15.35.44:117][712]LogSavePackage: Save=13.97ms
+[2017.04.13-15.35.44:117][712]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_Run3A6822A040E98D30DC67D6864D555AC9.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset'
+[2017.04.13-15.35.44:121][712]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset
+[2017.04.13-15.35.47:418][892]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.04.13-15.35.47:567][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.04.13-15.35.48:816][998]Cmd: TRANSACTION UNDO
+[2017.04.13-15.35.48:816][998]LogEditorTransaction: Undo Clicking on Actors
+[2017.04.13-15.35.50:991][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.04.13-15.35.52:643][277]Cmd: DELETE
+[2017.04.13-15.35.52:643][277]Cmd: ACTOR DELETE
+[2017.04.13-15.35.52:682][277]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.04.13-15.35.52:683][277]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.04.13-15.35.52:684][277]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2017.04.13-15.35.52:709][277]LogEditorActor: Deleted 3 Actors (0.027 secs)
+[2017.04.13-15.35.55:023][463]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.04.13-15.36.00:624][942]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.13-15.36.00:637][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-15.36.00:637][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.13-15.36.00:639][942]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 17:36:00)
+[2017.04.13-15.36.00:639][942]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.04.13-15.36.00:675][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036230s)
+[2017.04.13-15.36.00:677][942]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-15.36.00:677][942]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2017.04.13-15.36.00:677][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.038288s)
+[2017.04.13-15.36.00:715][942]LogInit: XAudio2 using 'Speakers (4- Logitech G430 Gaming Headset)' : 8 channels at 48 kHz using 16 bits per sample (channel mask 0x63f)
+[2017.04.13-15.36.00:722][942]LogInit: FAudioDevice initialized.
+[2017.04.13-15.36.00:777][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.13-15.36.00:782][942]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.04.13-16.36.00
+[2017.04.13-15.36.00:782][942]LogWorld: Bringing up level for play took: 0.003468
+[2017.04.13-15.36.00:783][942]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.13-15.36.00:784][942]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-15.36.00:784][942]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.04.13-15.36.00:784][942]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: equipping...
+[2017.04.13-15.36.00:789][942]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.799
+[2017.04.13-15.36.00:791][942]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 17:36:00)
+[2017.04.13-15.36.00:853][942]LogNet: Browse: 127.0.0.1//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2017.04.13-15.36.00:854][942]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.13-15.36.00:854][942]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-15.36.00:854][942]LogNet: Game client on port 7777, rate 10000
+[2017.04.13-15.36.00:854][942]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.13-15.36.00:859][942]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.87
+[2017.04.13-15.36.00:871][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-15.36.00:871][942]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52978
+[2017.04.13-15.36.00:871][942]LogHandshake: SendConnectChallenge. Timestamp: 0.009860, Cookie: 139164039080004147247135242075083236099185206001105242137126
+[2017.04.13-15.36.00:873][942]LogHandshake: SendChallengeResponse. Timestamp: 0.009860, Cookie: 139164039080004147247135242075083236099185206001105242137126
+[2017.04.13-15.36.00:973][943]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52978
+[2017.04.13-15.36.00:973][943]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52978
+[2017.04.13-15.36.00:973][943]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-15.36.00:974][943]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/13/17 16:36:00, [UNetConnection] RemoteAddr: 127.0.0.1:52978, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-15.36.00:974][943]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52978, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-15.36.00:974][943]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2017.04.13-15.36.00:974][943]LogNet: Remote platform little endian=1
+[2017.04.13-15.36.00:974][943]LogNet: This platform little endian=1
+[2017.04.13-15.36.00:989][944]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2017.04.13-15.36.00:991][944]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2017.04.13-15.36.00:991][944]LogLoad: LoadMap: 127.0.0.1//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2017.04.13-15.36.01:016][944]Cmd: MEM
+[2017.04.13-15.36.01:038][944]LogMemory: Platform Memory Stats for Windows
+[2017.04.13-15.36.01:038][944]LogMemory: Process Physical Memory: 1264.29 MB used, 1682.71 MB peak
+[2017.04.13-15.36.01:038][944]LogMemory: Process Virtual Memory: 4820.29 MB used, 5697.78 MB peak
+[2017.04.13-15.36.01:038][944]LogMemory: Physical Memory: 9246.96 MB used,  2938.91 MB free, 12185.86 MB total
+[2017.04.13-15.36.01:038][944]LogMemory: Virtual Memory: 5777.50 MB used,  2938.91 MB free, 134217728.00 MB total
+[2017.04.13-15.36.01:038][944]LogMemory: 
+[2017.04.13-15.36.01:038][944]Allocator Stats for TBB: (not implemented)
+[2017.04.13-15.36.01:076][944]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-15.36.01:082][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2017.04.13-16.36.01
+[2017.04.13-15.36.01:083][944]LogWorld: Bringing up level for play took: 0.004159
+[2017.04.13-15.36.01:083][944]LogLoad: Took 0.091710 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2017.04.13-15.36.01:109][945]LogNet: Client netspeed is 10000
+[2017.04.13-15.36.01:109][945]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2017.04.13-15.36.01:111][945]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0548
+[2017.04.13-15.36.01:111][945]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-15.36.01:111][945]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2017.04.13-15.36.01:111][945]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-15.36.01:112][945]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-15.36.01:112][945]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02D1
+[2017.04.13-15.36.01:112][945]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-15.36.01:112][945]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:0152
+[2017.04.13-15.36.01:112][945]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-15.36.01:113][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: equipping...
+[2017.04.13-15.36.01:113][945]LogNet: Join succeeded: 259
+[2017.04.13-15.36.01:130][946]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0548
+[2017.04.13-15.36.01:130][946]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-15.36.01:130][946]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06E1
+[2017.04.13-15.36.01:130][946]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-15.36.01:131][946]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-15.36.01:131][946]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02D1
+[2017.04.13-15.36.01:131][946]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-15.36.01:131][946]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:0152
+[2017.04.13-15.36.01:131][946]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-15.36.01:146][947]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: equipping...
+[2017.04.13-15.36.01:146][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: equipping...
+[2017.04.13-15.36.40:837][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-15.36.40:980][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-15.36.41:003][177]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52978, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.04.13-15.36.41:003][177]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52978, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-15.36.41
+[2017.04.13-15.36.41:003][177]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52978, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2017.04.13-15.36.41:003][177]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.04.13-15.36.41:003][177]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-15.36.41
+[2017.04.13-15.36.41:003][177]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.04.13-15.36.41:007][177]LogExit: GameNetDriver None shut down
+[2017.04.13-15.36.41:007][177]LogExit: GameNetDriver None shut down
+[2017.04.13-15.38.47:422][146]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_102:PersistentLevel.Actor_29.DebugSkelMeshComponent_94) Already registered. Aborting.
+[2017.04.13-15.38.47:490][146]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_102:PersistentLevel.Actor_29.DebugSkelMeshComponent_94) - call TermArticulated first.
+[2017.04.13-15.39.34:750][ 95]LogSavePackage: Save=403.94ms
+[2017.04.13-15.39.34:750][ 95]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ThirdPersonExampleMap_Auto7343B069144CD1979DEB382BF2CF542C3.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2017.04.13-15.39.34:755][ 95]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap
+[2017.04.13-15.39.34:782][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.566
+[2017.04.13-15.39.34:782][ 95]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.566
+[2017.04.13-15.41.08:930][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_0' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:930][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Ghoul_Idle' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:930][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Ghoul_Attack' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:931][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Ghoul_Run' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:931][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_94' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:931][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DebugSkelMeshComponent_93' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:931][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_93' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:931][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DebugSkelMeshComponent_92' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:945][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_95' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:945][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DebugSkelMeshComponent_94' or package '/Engine/Transient'.
+[2017.04.13-15.41.08:945][545]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimSingleNodeInstance_19' or package '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap'.
+[2017.04.13-15.41.10:259][545]LogTemp:Display: Removed shader map 0x0000025B61438800 from material 0x0000025A46C0A980
+[2017.04.13-15.41.10:259][545]LogTemp:Display: Removed shader map 0x0000025AD400F900 from material 0x0000025AD4A0D000
+[2017.04.13-15.41.10:259][545]LogTemp:Display: Removed shader map 0x0000025B5CE41600 from material 0x0000025A4D632F80
+[2017.04.13-15.41.15:315][587]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx)
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Geometry, ItemCount : 7
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Material, ItemCount : 3
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Model, ItemCount : 78
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: NodeAttribute, ItemCount : 71
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: AnimationCurveNode, ItemCount : 71
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Container, ItemCount : 1
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: CollectionExclusive, ItemCount : 4
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Pose, ItemCount : 7
+[2017.04.13-15.41.15:324][587]LogFbx: ItemName: Deformer, ItemCount : 85
+[2017.04.13-15.41.15:331][587]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx
+[2017.04.13-15.41.15:388][587]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.41.16:627][587]LogFbx: Loading FBX Scene from D:\Project_ Nuclear Cart\Nuclear CArt\ex\character\ghoul\ghoul_mesh.fbx
+[2017.04.13-15.41.16:685][587]LogFbx: FBX Scene Loaded Succesfully
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.16:692][587]LogFbx: 	Total Deformer Count 875489984.
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.16:692][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.16:692][587]LogFbx: 	Total Deformer Count 875489984.
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.16:692][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.16:692][587]LogFbx: 	Total Deformer Count 875489984.
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:692][587]LogFbx: =================================================
+[2017.04.13-15.41.16:692][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:692][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count -1871438936.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875488464.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 1645936784.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875485904.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875485904.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875485904.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875485904.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count -1871438936.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875485744.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 1645937568.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.16:693][587]LogFbx: 	Total Deformer Count 875486224.
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.16:693][587]LogFbx: =================================================
+[2017.04.13-15.41.16:693][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.16:693][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.16:693][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.16:695][587]LogFbx: Valid bind pose for Pose (skinCluster1) - polySurface249
+[2017.04.13-15.41.16:695][587]LogFbx: Valid bind pose for Pose (polySurface233_skinCluster) - polySurface249
+[2017.04.13-15.41.16:696][587]LogFbx: Valid bind pose for Pose (polySurface249_skinCluster) - polySurface249
+[2017.04.13-15.41.16:696][587]LogFbx: Valid bind pose for Pose (polySurface253_skinCluster) - polySurface249
+[2017.04.13-15.41.16:696][587]LogFbx: Valid bind pose for Pose (polySurface262_skinCluster) - polySurface249
+[2017.04.13-15.41.16:696][587]LogFbx: Valid bind pose for Pose (pSphere3_skinCluster) - polySurface249
+[2017.04.13-15.41.16:697][587]LogFbx: Valid bind pose for Pose (polySurface263_skinCluster) - polySurface249
+[2017.04.13-15.41.16:700][587]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert3.lambert3 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.41.16:702][587]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.04.13-15.41.16:703][587]LogTemp:Display: Added material ShaderMap 0x0000025B62562E80 with Material 0x0000025A46C09600 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.16:739][587]LogTemp:Display: Kicking off shader compilation for lambert3, GameThreadShaderMap 0x0000025B62562E80
+[2017.04.13-15.41.16:740][587]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.41.16:743][587]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2017.04.13-15.41.16:744][587]LogTemp:Display: Added material ShaderMap 0x0000025B5D104100 with Material 0x0000025A46C09600 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.16:782][587]LogTemp:Display: Kicking off shader compilation for lambert3, GameThreadShaderMap 0x0000025B5D104100
+[2017.04.13-15.41.16:784][587]LogFbx: Triangulating skeletal mesh polySurface249
+[2017.04.13-15.41.16:908][587]LogFbx: Triangulating skeletal mesh polySurface253
+[2017.04.13-15.41.17:149][587]LogFbx: Triangulating skeletal mesh polySurface262
+[2017.04.13-15.41.17:519][587]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.41.17:522][587]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.04.13-15.41.17:524][587]LogTemp:Display: Added material ShaderMap 0x0000025B5D5B1D00 with Material 0x0000025A4D4F1F00 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.17:582][587]LogTemp:Display: Kicking off shader compilation for lambert2, GameThreadShaderMap 0x0000025B5D5B1D00
+[2017.04.13-15.41.17:583][587]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.41.17:588][587]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2017.04.13-15.41.17:589][587]LogTemp:Display: Added material ShaderMap 0x0000025B61B4A400 with Material 0x0000025A4D4F1F00 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.17:641][587]LogTemp:Display: Kicking off shader compilation for lambert2, GameThreadShaderMap 0x0000025B61B4A400
+[2017.04.13-15.41.17:644][587]LogFbx: Triangulating skeletal mesh polySurface233
+[2017.04.13-15.41.17:753][587]LogFbx: Triangulating skeletal mesh pSphere3
+[2017.04.13-15.41.17:849][587]LogMaterial:Warning: Material /Game/ThirdPersonBP/Ghoul/lambert5.lambert5 needed to have new flag set bUsedWithSkeletalMesh !
+[2017.04.13-15.41.17:853][587]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2017.04.13-15.41.17:854][587]LogTemp:Display: Added material ShaderMap 0x0000025A02919980 with Material 0x0000025AA9FE0700 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.17:913][587]LogTemp:Display: Kicking off shader compilation for lambert5, GameThreadShaderMap 0x0000025A02919980
+[2017.04.13-15.41.17:913][587]LogMaterial: 0.00 seconds spent updating 1 materials, 1 interfaces, 0 instances, 0 with static permutations.
+[2017.04.13-15.41.17:919][587]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2017.04.13-15.41.17:921][587]LogTemp:Display: Added material ShaderMap 0x0000025B61F5BC80 with Material 0x0000025AA9FE0700 to ShaderMapsBeingCompiled
+[2017.04.13-15.41.17:976][587]LogTemp:Display: Kicking off shader compilation for lambert5, GameThreadShaderMap 0x0000025B61F5BC80
+[2017.04.13-15.41.17:989][587]LogFbx: Triangulating skeletal mesh polySurface263
+[2017.04.13-15.41.22:286][587]LogFbx:Warning: Bones digested - 69  Depth of hierarchy - 12
+[2017.04.13-15.41.22:776][587]LogSkeletalMesh: Section 0: 2264 vertices, 6 active bones
+[2017.04.13-15.41.22:776][587]LogSkeletalMesh: Section 1: 448 vertices, 4 active bones
+[2017.04.13-15.41.22:778][587]LogSkeletalMesh: Section 2: 6308 vertices, 66 active bones
+[2017.04.13-15.41.22:821][587]LogSkeletalMesh: Section 0: Material=0, 2142 triangles
+[2017.04.13-15.41.22:821][587]LogSkeletalMesh: Section 1: Material=1, 706 triangles
+[2017.04.13-15.41.22:821][587]LogSkeletalMesh: Section 2: Material=2, 12436 triangles
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 235847200.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 235847200.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 235847200.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 1637068120.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 235846240.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 978031400.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.22:841][587]LogFbx: =================================================
+[2017.04.13-15.41.22:841][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.22:841][587]LogFbx: 	Total Deformer Count 235845760.
+[2017.04.13-15.41.22:841][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.22:842][587]LogFbx: 	Total Deformer Count 235845760.
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.22:842][587]LogFbx: 	Total Deformer Count 235845760.
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.22:842][587]LogFbx: 	Total Deformer Count 235845760.
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:842][587]LogFbx: =================================================
+[2017.04.13-15.41.22:842][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:842][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.22:842][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.22:843][587]LogFbx: 	Total Deformer Count 1637068120.
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.22:843][587]LogFbx: 	Total Deformer Count 235844880.
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.22:843][587]LogFbx: 	Total Deformer Count 978031456.
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.22:843][587]LogFbx: 	Total Deformer Count 235844400.
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.22:843][587]LogFbx: =================================================
+[2017.04.13-15.41.22:843][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.22:843][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.22:843][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(0) root
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(1) pelvis
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(2) spine_01
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(3) spine_02
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(4) spine_03
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(5) clavicle_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(6) upperarm_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(7) L_shoulder_guard
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(8) lowerarm_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(9) hand_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(10) index_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(11) index_02_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(12) index_03_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(13) middle_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(14) middle_02_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(15) middle_03_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(16) pinky_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(17) pinky_02_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(18) pinky_03_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(19) ring_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(20) ring_02_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(21) ring_03_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(22) thumb_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(23) thumb_02_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(24) thumb_03_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(25) lowerarm_twist_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(26) upperarm_twist_01_l
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(27) clavicle_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(28) upperarm_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(29) R_shoulder_guard
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(30) lowerarm_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(31) R_hand_guard
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(32) hand_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(33) index_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(34) index_02_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(35) index_03_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(36) middle_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(37) middle_02_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(38) middle_03_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(39) pinky_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(40) pinky_02_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(41) pinky_03_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(42) ring_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(43) ring_02_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(44) ring_03_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(45) thumb_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(46) thumb_02_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(47) thumb_03_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(48) lowerarm_twist_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(49) upperarm_twist_01_r
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(50) neck_01
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(51) head
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(52) Jaw
+[2017.04.13-15.41.22:846][587]LogFbx: SortedLinks :(53) L_eye
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(54) R_eye
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(55) thigh_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(56) calf_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(57) calf_twist_01_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(58) foot_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(59) ball_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(60) bigtoe_proximal_phalange_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(61) thigh_twist_01_l
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(62) thigh_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(63) calf_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(64) calf_twist_01_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(65) foot_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(66) ball_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(67) bigtoe_proximal_phalange_r
+[2017.04.13-15.41.22:847][587]LogFbx: SortedLinks :(68) thigh_twist_01_r
+[2017.04.13-15.41.22:847][587]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.41.23:768][587]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.ghoul_mesh_polySurface249_Anim
+[2017.04.13-15.41.23:780][587]LogFbx: Valid bind pose for Pose (skinCluster1) - bat
+[2017.04.13-15.41.23:780][587]LogFbx: Valid bind pose for Pose (polySurface233_skinCluster) - bat
+[2017.04.13-15.41.23:780][587]LogFbx: Valid bind pose for Pose (polySurface249_skinCluster) - bat
+[2017.04.13-15.41.23:781][587]LogFbx: Valid bind pose for Pose (polySurface253_skinCluster) - bat
+[2017.04.13-15.41.23:781][587]LogFbx: Valid bind pose for Pose (polySurface262_skinCluster) - bat
+[2017.04.13-15.41.23:781][587]LogFbx: Valid bind pose for Pose (pSphere3_skinCluster) - bat
+[2017.04.13-15.41.23:782][587]LogFbx: Valid bind pose for Pose (polySurface263_skinCluster) - bat
+[2017.04.13-15.41.23:783][587]LogFbx: Triangulating skeletal mesh bat
+[2017.04.13-15.41.23:918][587]LogFbx:Warning: Bones digested - 2  Depth of hierarchy - 2
+[2017.04.13-15.41.23:926][587]LogSkeletalMesh: Section 0: 1107 vertices, 1 active bones
+[2017.04.13-15.41.23:926][587]LogSkeletalMesh: Section 0: Material=0, 402 triangles
+[2017.04.13-15.41.23:930][587]LogFbx: =================================================
+[2017.04.13-15.41.23:930][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.23:930][587]LogFbx: 	Total Deformer Count 1637128672.
+[2017.04.13-15.41.23:930][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 1637128672.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 1637128672.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 1637068736.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 1637123952.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 978030560.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.23:931][587]LogFbx: 	Total Deformer Count 1637127232.
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:931][587]LogFbx: =================================================
+[2017.04.13-15.41.23:931][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:931][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.23:931][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [polySurface249] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637127232.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] polySurface249 (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [polySurface249]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [polySurface253] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637127232.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] polySurface253 (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [polySurface253]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [polySurface262] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637127232.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] polySurface262 (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [polySurface262]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [bat] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637068736.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] bat (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [bat]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [polySurface233] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637123312.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] polySurface233 (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [polySurface233]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [pSphere3] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 978031176.
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:932][587]LogFbx: 		[Node Attribute Child 1] pSphere3 (Type Mesh).
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node END [pSphere3]
+[2017.04.13-15.41.23:932][587]LogFbx: =================================================
+[2017.04.13-15.41.23:932][587]LogFbx: Dumping Node START [polySurface263] 
+[2017.04.13-15.41.23:932][587]LogFbx: 	Total Deformer Count 1637124912.
+[2017.04.13-15.41.23:933][587]LogFbx: 		[Node 1]  (Type Skin).
+[2017.04.13-15.41.23:933][587]LogFbx: =================================================
+[2017.04.13-15.41.23:933][587]LogFbx: 	Attribute () Type (4).
+[2017.04.13-15.41.23:933][587]LogFbx: 		[Node Attribute Child 1] polySurface263 (Type Mesh).
+[2017.04.13-15.41.23:933][587]LogFbx: Dumping Node END [polySurface263]
+[2017.04.13-15.41.23:935][587]LogFbx: SortedLinks :(0) bat_root
+[2017.04.13-15.41.23:935][587]LogFbx: SortedLinks :(1) bat_end
+[2017.04.13-15.41.23:935][587]LogFbx: Parsing AnimStack Take 001
+[2017.04.13-15.41.23:945][587]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.ghoul_mesh_bat_Anim
+[2017.04.13-15.41.23:966][587]FBXImport:Warning: Warning Mesh 'polySurface262' has no UV set. Creating a default set. 
+[2017.04.13-15.41.23:966][587]FBXImport:Warning: Warning Mesh 'polySurface233' has no UV set. Creating a default set. 
+[2017.04.13-15.41.23:966][587]FBXImport:Warning: Warning Mesh 'bat' has no UV set. Creating a default set. 
+[2017.04.13-15.41.24:021][587]LogTemp:Display: Finished compile of shader map 0x0000025B5D104100
+[2017.04.13-15.41.24:021][587]LogTemp:Display: Shader map lambert3 complete, GameThreadShaderMap 0x0000025B5D104100, marking material lambert3 as finished
+[2017.04.13-15.41.24:021][587]LogTemp:Display: Marking material as finished 0x0000025A46C09600
+[2017.04.13-15.41.25:978][609]LogTemp:Display: Finished compile of shader map 0x0000025B61B4A400
+[2017.04.13-15.41.25:978][609]LogTemp:Display: Shader map lambert2 complete, GameThreadShaderMap 0x0000025B61B4A400, marking material lambert2 as finished
+[2017.04.13-15.41.25:978][609]LogTemp:Display: Marking material as finished 0x0000025A4D4F1F00
+[2017.04.13-15.41.26:140][614]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_103:PersistentLevel.Actor_30.DebugSkelMeshComponent_95) Already registered. Aborting.
+[2017.04.13-15.41.26:226][614]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_103:PersistentLevel.Actor_30.DebugSkelMeshComponent_95) - call TermArticulated first.
+[2017.04.13-15.41.29:544][736]LogTemp:Display: Finished compile of shader map 0x0000025B61F5BC80
+[2017.04.13-15.41.29:544][736]LogTemp:Display: Shader map lambert5 complete, GameThreadShaderMap 0x0000025B61F5BC80, marking material lambert5 as finished
+[2017.04.13-15.41.29:544][736]LogTemp:Display: Marking material as finished 0x0000025AA9FE0700
+[2017.04.13-15.41.31:007][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset" SILENT=true
+[2017.04.13-15.41.31:057][826]LogSavePackage: Save=48.46ms
+[2017.04.13-15.41.31:057][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh064DF74F4A5F2C556FE61C90493AE6C7.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset'
+[2017.04.13-15.41.31:062][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh.uasset
+[2017.04.13-15.41.31:074][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset" SILENT=true
+[2017.04.13-15.41.31:098][826]LogSavePackage: Save=8.29ms
+[2017.04.13-15.41.31:098][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_IdleFE46EEBD46773FA6843D19AC7C926020.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset'
+[2017.04.13-15.41.31:103][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset
+[2017.04.13-15.41.31:115][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset" SILENT=true
+[2017.04.13-15.41.31:137][826]LogSavePackage: Save=6.46ms
+[2017.04.13-15.41.31:137][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_AttackD3D6A7724FB4D5F4661B5C8014C52813.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset'
+[2017.04.13-15.41.31:141][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset
+[2017.04.13-15.41.31:153][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset" SILENT=true
+[2017.04.13-15.41.31:177][826]LogSavePackage: Save=6.69ms
+[2017.04.13-15.41.31:177][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_Run84B27AF64F20860013D0F199D24FE566.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset'
+[2017.04.13-15.41.31:181][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset
+[2017.04.13-15.41.31:232][826]LogSavePackage: Save=13.61ms
+[2017.04.13-15.41.31:232][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_Anim821E93FC4AC16BC2B31FA09863BF0666.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.uasset'
+[2017.04.13-15.41.31:237][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Anim.uasset
+[2017.04.13-15.41.31:246][826]LogSavePackage: Save=2.86ms
+[2017.04.13-15.41.31:246][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_SkeletonBF4B00F3475146F5ED9A159E34610477.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton.uasset'
+[2017.04.13-15.41.31:249][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_Skeleton.uasset
+[2017.04.13-15.41.31:287][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset" SILENT=true
+[2017.04.13-15.41.31:300][826]LogSavePackage: Save=10.76ms
+[2017.04.13-15.41.31:300][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_AnimDAEBE2CF4FACFA56792B1FB0D1926A82.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset'
+[2017.04.13-15.41.31:306][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Anim.uasset
+[2017.04.13-15.41.31:310][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset" SILENT=true
+[2017.04.13-15.41.31:313][826]LogSavePackage: Save=1.52ms
+[2017.04.13-15.41.31:313][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_Skeleton004B4C594FDD91B2439CA58281B32C20.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset'
+[2017.04.13-15.41.31:317][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_Skeleton.uasset
+[2017.04.13-15.41.31:339][826]LogSavePackage: Save=17.18ms
+[2017.04.13-15.41.31:339][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_polySurface249_PhysicsAssetEE9DA0364F86122D3F1E86A9773A5B86.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset.uasset'
+[2017.04.13-15.41.31:346][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_polySurface249_PhysicsAsset.uasset
+[2017.04.13-15.41.31:382][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert5" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset" SILENT=true
+[2017.04.13-15.41.31:395][826]LogSavePackage: Save=11.15ms
+[2017.04.13-15.41.31:395][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert5D459F1B54234D9A3F0257E87EA9FF981.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset'
+[2017.04.13-15.41.31:399][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert5.uasset
+[2017.04.13-15.41.31:436][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert2" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset" SILENT=true
+[2017.04.13-15.41.31:449][826]LogSavePackage: Save=11.23ms
+[2017.04.13-15.41.31:449][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert2553B8AC74E3DBB763764B2BC8D8AFE65.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset'
+[2017.04.13-15.41.31:453][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert2.uasset
+[2017.04.13-15.41.31:490][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/lambert3" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset" SILENT=true
+[2017.04.13-15.41.31:503][826]LogSavePackage: Save=12.03ms
+[2017.04.13-15.41.31:503][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/lambert36CCCBB0A431977F95251E0BFF158390B.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset'
+[2017.04.13-15.41.31:508][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/lambert3.uasset
+[2017.04.13-15.41.31:515][826]LogSavePackage: Save=1.94ms
+[2017.04.13-15.41.31:515][826]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ghoul_mesh_bat_PhysicsAsset70F2B25143FE385EB6DB9DB0D0189ED5.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset.uasset'
+[2017.04.13-15.41.31:519][826]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/ghoul_mesh_bat_PhysicsAsset.uasset
+[2017.04.13-15.41.35:445][145]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_104:PersistentLevel.Actor_31.DebugSkelMeshComponent_96) Already registered. Aborting.
+[2017.04.13-15.41.35:506][145]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_104:PersistentLevel.Actor_31.DebugSkelMeshComponent_96) - call TermArticulated first.
+[2017.04.13-15.41.46:359][815]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.Ghoul_Attack
+[2017.04.13-15.41.46:422][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_107:PersistentLevel.Actor_32.DebugSkelMeshComponent_99) Already registered. Aborting.
+[2017.04.13-15.41.46:480][815]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_107:PersistentLevel.Actor_32.DebugSkelMeshComponent_99) - call TermArticulated first.
+[2017.04.13-15.41.54:826][295]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.Ghoul_Idle
+[2017.04.13-15.41.54:891][295]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_112:PersistentLevel.Actor_33.DebugSkelMeshComponent_104) Already registered. Aborting.
+[2017.04.13-15.41.54:950][295]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_112:PersistentLevel.Actor_33.DebugSkelMeshComponent_104) - call TermArticulated first.
+[2017.04.13-15.42.04:441][822]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.Ghoul_Run
+[2017.04.13-15.42.04:492][822]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_117:PersistentLevel.Actor_34.DebugSkelMeshComponent_109) Already registered. Aborting.
+[2017.04.13-15.42.04:549][822]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_117:PersistentLevel.Actor_34.DebugSkelMeshComponent_109) - call TermArticulated first.
+[2017.04.13-15.42.07:211][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset" SILENT=true
+[2017.04.13-15.42.07:244][956]LogSavePackage: Save=15.54ms
+[2017.04.13-15.42.07:244][956]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_IdleC1CEE6894C8D711E86FFAA9C9B078C51.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset'
+[2017.04.13-15.42.07:250][956]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Idle.uasset
+[2017.04.13-15.42.07:292][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset" SILENT=true
+[2017.04.13-15.42.07:319][956]LogSavePackage: Save=12.30ms
+[2017.04.13-15.42.07:319][956]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_Attack8988DBD649BB2BE1CAD5D78ECC50726A.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset'
+[2017.04.13-15.42.07:325][956]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Attack.uasset
+[2017.04.13-15.42.07:360][956]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Ghoul/Animations/Ghoul_Run" FILE="C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset" SILENT=true
+[2017.04.13-15.42.07:385][956]LogSavePackage: Save=12.24ms
+[2017.04.13-15.42.07:385][956]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/Ghoul_RunE636510843FD71A9585A2FABD4846960.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset'
+[2017.04.13-15.42.07:391][956]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Ghoul/Animations/Ghoul_Run.uasset
+[2017.04.13-15.42.07:949][986]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_120:PersistentLevel.Actor_35.DebugSkelMeshComponent_112) Already registered. Aborting.
+[2017.04.13-15.42.08:010][986]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_120:PersistentLevel.Actor_35.DebugSkelMeshComponent_112) - call TermArticulated first.
+[2017.04.13-15.42.39:692][797]LogSavePackage: Save=215.95ms
+[2017.04.13-15.42.39:693][797]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ThirdPersonExampleMapB49E1BD44D0C31B5F967CC8E17BDA014.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.04.13-15.42.39:698][797]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.04.13-15.42.39:896][797]LogSavePackage: Save=141.37ms
+[2017.04.13-15.42.39:896][797]LogSavePackage: Moving 'C:/Users/Kraken/Documents/GitHub/Fission/Saved/ThirdPersonExampleMap_BuiltData7E99FF774EB100E54791A3994BA541F2.tmp' to 'C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.04.13-15.42.39:901][797]LogSavePackage:Display: Finished SavePackage C:/Users/Kraken/Documents/GitHub/Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
