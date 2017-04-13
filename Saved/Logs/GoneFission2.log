@@ -304,3 +304,57 @@ LogInit: Object subsystem initialized
 [2017.04.13-17.30.38:387][966]LogStats:                SubmitErrorReport -  0.000 s
 [2017.04.13-17.30.44:400][966]LogStats:                    SendNewReport -  6.014 s
 [2017.04.13-17.30.44:400][966]LogStats:             FDebug::EnsureFailed -  7.478 s
+[2017.04.13-17.37.35:301][890]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.04.13-17.37.44:555][201]LogSavePackage: Save=164.19ms
+[2017.04.13-17.37.44:555][201]LogSavePackage: Moving '../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/ThirdPersonExampleMap_Auto105DFA3D4420C45577C404E8305DF28BD.tmp' to '../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2017.04.13-17.37.44:557][201]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2017.04.13-17.37.44:559][201]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.214
+[2017.04.13-17.37.44:559][201]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2017.04.13-17.37.44:562][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2017.04.13-17.37.44:562][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2017.04.13-17.37.44:585][201]LogSavePackage: Save=13.44ms
+[2017.04.13-17.37.44:585][201]LogSavePackage: Moving '../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/ThirdPersonExampleMap_BuiltData_Auto1FE63B3204BF94F831C0DA78C0B513704.tmp' to '../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2017.04.13-17.37.44:587][201]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset
+[2017.04.13-17.37.44:587][201]LogFileHelpers: Auto-saving content packages took 0.027
+[2017.04.13-17.39.49:982][ 46]LogMaterial: Missing cached shader map for material WaterDrops, compiling. 
+[2017.04.13-17.39.49:984][ 46]LogTemp:Display: Added material ShaderMap 0x000001F1FAE9FC80 with Material 0x000001F1A1C47E80 to ShaderMapsBeingCompiled
+[2017.04.13-17.39.50:059][ 46]LogTemp:Display: Kicking off shader compilation for WaterDrops, GameThreadShaderMap 0x000001F1FAE9FC80
+[2017.04.13-17.39.50:062][ 46]LogMaterial: Missing cached shader map for material FloorShader, compiling. 
+[2017.04.13-17.39.50:064][ 46]LogTemp:Display: Added material ShaderMap 0x000001F209EFCF00 with Material 0x000001F1A0BAE080 to ShaderMapsBeingCompiled
+[2017.04.13-17.39.50:105][ 46]LogTemp:Display: Kicking off shader compilation for FloorShader, GameThreadShaderMap 0x000001F209EFCF00
+[2017.04.13-17.39.50:106][ 46]LogAIModule: Creating AISystem for world WaterPuddleTest
+[2017.04.13-17.39.58:575][175]LogTemp:Display: Finished compile of shader map 0x000001F1FAE9FC80
+[2017.04.13-17.39.58:575][175]LogTemp:Display: Shader map WaterDrops complete, GameThreadShaderMap 0x000001F1FAE9FC80, marking material WaterDrops as finished
+[2017.04.13-17.39.58:575][175]LogTemp:Display: Marking material as finished 0x000001F1A1C47E80
+[2017.04.13-17.39.58:858][192]LogTemp:Display: Finished compile of shader map 0x000001F209EFCF00
+[2017.04.13-17.39.58:858][192]LogTemp:Display: Shader map FloorShader complete, GameThreadShaderMap 0x000001F209EFCF00, marking material FloorShader as finished
+[2017.04.13-17.39.58:858][192]LogTemp:Display: Marking material as finished 0x000001F1A0BAE080
+[2017.04.13-17.41.01:965][902]SourceControl: Info fatal: C:/Program Files/Epic Games/UE_4.15/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.15/Engine/Content/' is outside repository
+[2017.04.13-17.41.02:119][902]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/javoo/OneDrive/Documentos/GitHub/Fission/GoneFission2.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2017.04.13-17.41.32:858][902]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.04.13-17.41.33:135][902]SourceControl: Info [Javier_Branch 36afbe6] [Physics] Javier physics files
+[2017.04.13-17.41.33:135][902]SourceControl: Info  23 files changed, 0 insertions(+), 0 deletions(-)
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/FloorShader.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/GPU_Sprites/P_Sparks_GPU.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Sprite_MAT.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/TestMAT.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/TutorialCurve.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/WaterDropHitEmitter.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/WaterDrops.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/WaterDropsEmitter.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Waterfall/RandomNormal.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Waterfall/WaterFallMesh_02.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Waterfall/WaterfallMesh.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Waterfall/Waterfall_MAT.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/Waterfall/water_d.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/mFloorTileTilesLarge_Normal.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/mFloorTileTilesLarge_albedo.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/mFloorTileTilesLarge_albedo_Mat.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/mFloorTileTilesLarge_mask.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/rain_texture01.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/waterNormal.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/waterTestCollection.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/water_almost_flat_normal.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/waterfallEmitter.uasset
+[2017.04.13-17.41.33:135][902]SourceControl: Info  create mode 100644 Content/NuclearCart/waterfallSprite.uasset
+[2017.04.13-17.41.33:147][902]SourceControl: Info Commited [Javier_Branch 36afbe6] [Physics] Javier physics files.
