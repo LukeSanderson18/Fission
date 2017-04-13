@@ -334,3 +334,16 @@ LogInit: Object subsystem initialized
 [2017.04.13-19.52.27:502][711]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
 [2017.04.13-19.52.27:568][711]LogExit: GameNetDriver None shut down
 [2017.04.13-19.52.27:601][711]LogExit: GameNetDriver None shut down
+[2017.04.13-19.59.34:495][384]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:0559
+[2017.04.13-19.59.34:496][384]LogScript:Warning: Accessed None trying to read property CameraBoom
+	ThirdPerson_AnimBP_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0.CharacterMesh0.ThirdPerson_AnimBP_C_1
+	Function /Game/ThirdPersonBP/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP:06BF
+[2017.04.13-19.59.34:496][384]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-19.59.34:496][384]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:02D1
+[2017.04.13-19.59.34:496][384]LogScript:Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	ThirdPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.ThirdPersonCharacter_C_0
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:GiveDefaultWeapons:0152
