@@ -5084,3 +5084,385 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Set WoodFootPrintSelec
 [2017.04.13-18.25.38:015][267]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
 [2017.04.13-18.27.08:245][932]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.Actor_5.DebugSkelMeshComponent_15) Already registered. Aborting.
 [2017.04.13-18.27.08:293][932]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_32:PersistentLevel.Actor_5.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.04.13-18.37.27:278][244]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.13-18.37.27:296][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.37.27:296][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.13-18.37.27:298][244]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:37:27 pm)
+[2017.04.13-18.37.27:298][244]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.04.13-18.37.27:324][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026046s)
+[2017.04.13-18.37.27:327][244]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.37.27:328][244]LogPlayLevel: PIE: World Init took: (0.003609s)
+[2017.04.13-18.37.27:328][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030026s)
+[2017.04.13-18.37.27:387][244]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.13-18.37.27:400][244]LogInit: FAudioDevice initialized.
+[2017.04.13-18.37.27:444][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.13-18.37.27:447][244]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.37.27
+[2017.04.13-18.37.27:447][244]LogWorld: Bringing up level for play took: 0.003065
+[2017.04.13-18.37.27:448][244]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.13-18.37.27:449][244]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.37.27:449][244]LogNet: GameNetDriver IpNetDriver_16 IpNetDriver listening on port 7777
+[2017.04.13-18.37.27:450][244]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: equipping...
+[2017.04.13-18.37.27:456][244]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.734
+[2017.04.13-18.37.27:458][244]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:37:27 pm)
+[2017.04.13-18.37.27:514][244]LogNet: Browse: 127.0.0.1//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2017.04.13-18.37.27:514][244]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.13-18.37.27:514][244]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.37.27:515][244]LogNet: Game client on port 7777, rate 10000
+[2017.04.13-18.37.27:515][244]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: PendingNetDriver IpNetDriver_17, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.13-18.37.27:521][244]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.799
+[2017.04.13-18.37.27:538][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.37.27:539][244]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63778
+[2017.04.13-18.37.27:539][244]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 110172237031077025161247000027133098059167104128095036219178
+[2017.04.13-18.37.27:540][244]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 110172237031077025161247000027133098059167104128095036219178
+[2017.04.13-18.37.27:674][245]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63778
+[2017.04.13-18.37.27:674][245]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63778
+[2017.04.13-18.37.27:674][245]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.37.27:674][245]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/13/17 19:37:27, [UNetConnection] RemoteAddr: 127.0.0.1:63778, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.37.27:674][245]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63778, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.37.27:674][245]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2017.04.13-18.37.27:674][245]LogNet: Remote platform little endian=1
+[2017.04.13-18.37.27:674][245]LogNet: This platform little endian=1
+[2017.04.13-18.37.27:699][246]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2017.04.13-18.37.27:700][246]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2017.04.13-18.37.27:701][246]LogLoad: LoadMap: 127.0.0.1//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2017.04.13-18.37.27:750][246]Cmd: MEM
+[2017.04.13-18.37.27:787][246]LogMemory: Platform Memory Stats for Windows
+[2017.04.13-18.37.27:787][246]LogMemory: Process Physical Memory: 912.36 MB used, 1238.99 MB peak
+[2017.04.13-18.37.27:787][246]LogMemory: Process Virtual Memory: 3603.47 MB used, 3885.07 MB peak
+[2017.04.13-18.37.27:787][246]LogMemory: Physical Memory: 6695.48 MB used,  1398.93 MB free, 8094.41 MB total
+[2017.04.13-18.37.27:787][246]LogMemory: Virtual Memory: 4930.96 MB used,  1398.93 MB free, 134217728.00 MB total
+[2017.04.13-18.37.27:787][246]LogMemory: 
+[2017.04.13-18.37.27:787][246]Allocator Stats for TBB: (not implemented)
+[2017.04.13-18.37.27:809][246]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.37.27:814][246]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.37.27
+[2017.04.13-18.37.27:815][246]LogWorld: Bringing up level for play took: 0.004152
+[2017.04.13-18.37.27:815][246]LogLoad: Took 0.114427 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2017.04.13-18.37.27:853][247]LogNet: Client netspeed is 10000
+[2017.04.13-18.37.27:853][247]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2017.04.13-18.37.27:855][247]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.37.27:855][247]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.37.27:856][247]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.37.27:856][247]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.37.27:856][247]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.37.27:857][247]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: equipping...
+[2017.04.13-18.37.27:857][247]LogNet: Join succeeded: 273
+[2017.04.13-18.37.27:954][248]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.37.27:955][248]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.37.27:956][248]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.37.27:956][248]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.37.27:956][248]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.37.27:958][248]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: equipping...
+[2017.04.13-18.37.27:958][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: equipping...
+[2017.04.13-18.37.50:465][432]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.37.50:649][432]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.37.50:695][432]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63778, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.37.50:695][432]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63778, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.37.50
+[2017.04.13-18.37.50:695][432]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63778, Name: IpConnection_17, Driver: GameNetDriver IpNetDriver_16, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.37.50:696][432]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.37.50:696][432]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.37.50
+[2017.04.13-18.37.50:696][432]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_16, Driver: GameNetDriver IpNetDriver_17, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.37.50:701][432]LogExit: GameNetDriver None shut down
+[2017.04.13-18.37.50:701][432]LogExit: GameNetDriver None shut down
+[2017.04.13-18.44.55:945][ 93]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2017.04.13-18.44.57:800][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPerson_AnimBP" FILE="../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.04.13-18.44.57:910][173]LogSavePackage: Save=99.72ms
+[2017.04.13-18.44.57:910][173]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPerson_AnimBP2AE9F15748ED464FA8080FA9BCAFDCC5.tmp' to '../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset'
+[2017.04.13-18.44.57:914][173]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
+[2017.04.13-18.45.07:313][727]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.13-18.45.07:328][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.45.07:328][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.13-18.45.07:330][727]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:45:07 pm)
+[2017.04.13-18.45.07:330][727]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.04.13-18.45.07:352][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022178s)
+[2017.04.13-18.45.07:353][727]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.45.07:353][727]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2017.04.13-18.45.07:354][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023722s)
+[2017.04.13-18.45.07:398][727]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.13-18.45.07:409][727]LogInit: FAudioDevice initialized.
+[2017.04.13-18.45.07:456][727]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.13-18.45.07:459][727]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.45.07
+[2017.04.13-18.45.07:460][727]LogWorld: Bringing up level for play took: 0.002758
+[2017.04.13-18.45.07:461][727]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.13-18.45.07:461][727]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.45.07:461][727]LogNet: GameNetDriver IpNetDriver_18 IpNetDriver listening on port 7777
+[2017.04.13-18.45.07:462][727]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: equipping...
+[2017.04.13-18.45.07:467][727]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.744
+[2017.04.13-18.45.07:469][727]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:45:07 pm)
+[2017.04.13-18.45.07:527][727]LogNet: Browse: 127.0.0.1//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2017.04.13-18.45.07:527][727]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.13-18.45.07:528][727]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.45.07:528][727]LogNet: Game client on port 7777, rate 10000
+[2017.04.13-18.45.07:528][727]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: PendingNetDriver IpNetDriver_19, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.13-18.45.07:533][727]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.811
+[2017.04.13-18.45.07:544][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.45.07:545][727]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63527
+[2017.04.13-18.45.07:545][727]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 113158166123181135009255014146210002095016203230045153010062
+[2017.04.13-18.45.07:546][727]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 113158166123181135009255014146210002095016203230045153010062
+[2017.04.13-18.45.07:687][728]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63527
+[2017.04.13-18.45.07:687][728]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63527
+[2017.04.13-18.45.07:687][728]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.45.07:687][728]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/13/17 19:45:07, [UNetConnection] RemoteAddr: 127.0.0.1:63527, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.45.07:687][728]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63527, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.45.07:687][728]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2017.04.13-18.45.07:687][728]LogNet: Remote platform little endian=1
+[2017.04.13-18.45.07:687][728]LogNet: This platform little endian=1
+[2017.04.13-18.45.07:703][729]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2017.04.13-18.45.07:704][729]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2017.04.13-18.45.07:704][729]LogLoad: LoadMap: 127.0.0.1//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2017.04.13-18.45.07:753][729]Cmd: MEM
+[2017.04.13-18.45.07:787][729]LogMemory: Platform Memory Stats for Windows
+[2017.04.13-18.45.07:787][729]LogMemory: Process Physical Memory: 716.67 MB used, 1238.99 MB peak
+[2017.04.13-18.45.07:788][729]LogMemory: Process Virtual Memory: 3333.14 MB used, 3885.07 MB peak
+[2017.04.13-18.45.07:788][729]LogMemory: Physical Memory: 6429.38 MB used,  1665.04 MB free, 8094.41 MB total
+[2017.04.13-18.45.07:788][729]LogMemory: Virtual Memory: 4686.64 MB used,  1665.04 MB free, 134217728.00 MB total
+[2017.04.13-18.45.07:788][729]LogMemory: 
+[2017.04.13-18.45.07:788][729]Allocator Stats for TBB: (not implemented)
+[2017.04.13-18.45.07:809][729]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.45.07:815][729]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.45.07
+[2017.04.13-18.45.07:815][729]LogWorld: Bringing up level for play took: 0.004194
+[2017.04.13-18.45.07:816][729]LogLoad: Took 0.111763 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2017.04.13-18.45.07:853][730]LogNet: Client netspeed is 10000
+[2017.04.13-18.45.07:853][730]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2017.04.13-18.45.07:855][730]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.45.07:855][730]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.45.07:856][730]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.45.07:856][730]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.45.07:857][730]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.45.07:857][730]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: equipping...
+[2017.04.13-18.45.07:857][730]LogNet: Join succeeded: 275
+[2017.04.13-18.45.07:935][731]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.45.07:936][731]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.45.07:937][731]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.45.07:937][731]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.45.07:937][731]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.45.07:940][731]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: equipping...
+[2017.04.13-18.45.07:941][731]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: equipping...
+[2017.04.13-18.45.19:370][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.45.19:511][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.45.19:548][328]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63527, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.45.19:548][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63527, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.45.19
+[2017.04.13-18.45.19:548][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63527, Name: IpConnection_19, Driver: GameNetDriver IpNetDriver_18, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.45.19:548][328]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.45.19:548][328]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.45.19
+[2017.04.13-18.45.19:548][328]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_18, Driver: GameNetDriver IpNetDriver_19, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.45.19:553][328]LogExit: GameNetDriver None shut down
+[2017.04.13-18.45.19:554][328]LogExit: GameNetDriver None shut down
+[2017.04.13-18.46.19:535][794]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2017.04.13-18.46.20:487][824]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPerson_AnimBP" FILE="../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.04.13-18.46.20:569][824]LogSavePackage: Save=76.12ms
+[2017.04.13-18.46.20:569][824]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPerson_AnimBPE1D839624E2F2EB58BDC3C80A2D5E833.tmp' to '../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset'
+[2017.04.13-18.46.20:572][824]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
+[2017.04.13-18.46.23:437][986]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.13-18.46.23:453][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.46.23:453][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.13-18.46.23:454][986]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:46:23 pm)
+[2017.04.13-18.46.23:455][986]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.04.13-18.46.23:475][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020075s)
+[2017.04.13-18.46.23:476][986]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.46.23:476][986]LogPlayLevel: PIE: World Init took: (0.001179s)
+[2017.04.13-18.46.23:476][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021588s)
+[2017.04.13-18.46.23:520][986]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.13-18.46.23:530][986]LogInit: FAudioDevice initialized.
+[2017.04.13-18.46.23:574][986]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.13-18.46.23:576][986]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.46.23
+[2017.04.13-18.46.23:577][986]LogWorld: Bringing up level for play took: 0.002615
+[2017.04.13-18.46.23:578][986]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.13-18.46.23:578][986]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.46.23:578][986]LogNet: GameNetDriver IpNetDriver_20 IpNetDriver listening on port 7777
+[2017.04.13-18.46.23:579][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: equipping...
+[2017.04.13-18.46.23:585][986]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.863
+[2017.04.13-18.46.23:587][986]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:46:23 pm)
+[2017.04.13-18.46.23:738][986]LogNet: Browse: 127.0.0.1//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2017.04.13-18.46.23:738][986]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.13-18.46.23:739][986]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.46.23:739][986]LogNet: Game client on port 7777, rate 10000
+[2017.04.13-18.46.23:740][986]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_20, Driver: PendingNetDriver IpNetDriver_21, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.13-18.46.23:748][986]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 1.026
+[2017.04.13-18.46.23:763][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.46.23:763][986]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64529
+[2017.04.13-18.46.23:763][986]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 081159233143107247157082221055174123165245100013194197142251
+[2017.04.13-18.46.23:764][986]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 081159233143107247157082221055174123165245100013194197142251
+[2017.04.13-18.46.23:884][987]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:64529
+[2017.04.13-18.46.23:884][987]LogNet: Server accepting post-challenge connection from: 127.0.0.1:64529
+[2017.04.13-18.46.23:884][987]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.46.23:884][987]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/13/17 19:46:23, [UNetConnection] RemoteAddr: 127.0.0.1:64529, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.46.23:884][987]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:64529, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.46.23:884][987]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2017.04.13-18.46.23:884][987]LogNet: Remote platform little endian=1
+[2017.04.13-18.46.23:884][987]LogNet: This platform little endian=1
+[2017.04.13-18.46.23:907][988]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2017.04.13-18.46.23:909][988]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2017.04.13-18.46.23:909][988]LogLoad: LoadMap: 127.0.0.1//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2017.04.13-18.46.23:958][988]Cmd: MEM
+[2017.04.13-18.46.24:001][988]LogMemory: Platform Memory Stats for Windows
+[2017.04.13-18.46.24:001][988]LogMemory: Process Physical Memory: 824.91 MB used, 1238.99 MB peak
+[2017.04.13-18.46.24:001][988]LogMemory: Process Virtual Memory: 3332.24 MB used, 3885.07 MB peak
+[2017.04.13-18.46.24:001][988]LogMemory: Physical Memory: 6537.64 MB used,  1556.77 MB free, 8094.41 MB total
+[2017.04.13-18.46.24:001][988]LogMemory: Virtual Memory: 4703.89 MB used,  1556.77 MB free, 134217728.00 MB total
+[2017.04.13-18.46.24:001][988]LogMemory: 
+[2017.04.13-18.46.24:001][988]Allocator Stats for TBB: (not implemented)
+[2017.04.13-18.46.24:025][988]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.46.24:030][988]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.46.24
+[2017.04.13-18.46.24:030][988]LogWorld: Bringing up level for play took: 0.003560
+[2017.04.13-18.46.24:030][988]LogLoad: Took 0.121630 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2017.04.13-18.46.24:068][989]LogNet: Client netspeed is 10000
+[2017.04.13-18.46.24:068][989]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2017.04.13-18.46.24:070][989]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.46.24:071][989]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.46.24:072][989]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.46.24:072][989]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.46.24:072][989]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.46.24:073][989]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: equipping...
+[2017.04.13-18.46.24:073][989]LogNet: Join succeeded: 277
+[2017.04.13-18.46.24:088][990]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.46.24:089][990]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.46.24:090][990]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.46.24:090][990]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.46.24:090][990]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.46.24:092][990]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: equipping...
+[2017.04.13-18.46.24:092][990]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: equipping...
+[2017.04.13-18.46.35:922][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.46.36:062][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.46.36:098][615]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64529, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.46.36:098][615]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:64529, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.46.36
+[2017.04.13-18.46.36:098][615]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:64529, Name: IpConnection_21, Driver: GameNetDriver IpNetDriver_20, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.46.36:098][615]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.46.36:098][615]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.04.13-18.46.36
+[2017.04.13-18.46.36:098][615]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_20, Driver: GameNetDriver IpNetDriver_21, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.46.36:106][615]LogExit: GameNetDriver None shut down
+[2017.04.13-18.46.36:106][615]LogExit: GameNetDriver None shut down
+[2017.04.13-18.46.45:146][108]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2017.04.13-18.46.46:146][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPerson_AnimBP" FILE="../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.04.13-18.46.46:231][144]LogSavePackage: Save=77.40ms
+[2017.04.13-18.46.46:231][144]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPerson_AnimBPC4D750334C89F5175B6B3899B01AEBAA.tmp' to '../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset'
+[2017.04.13-18.46.46:233][144]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
+[2017.04.13-18.47.59:639][580]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2017.04.13-18.48.00:652][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPerson_AnimBP" FILE="../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset" SILENT=true
+[2017.04.13-18.48.00:741][618]LogSavePackage: Save=84.47ms
+[2017.04.13-18.48.00:741][618]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPerson_AnimBPF1231FB444EBD777DD84DA88A3BA66B4.tmp' to '../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset'
+[2017.04.13-18.48.00:754][618]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/ThirdPerson_AnimBP.uasset
+[2017.04.13-18.48.02:263][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap" FILE="../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.04.13-18.48.02:607][697]LogSavePackage: Save=287.97ms
+[2017.04.13-18.48.02:607][697]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPersonExampleMap80290C084BFBAD54C9AA2B9B3E43D5DA.tmp' to '../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.04.13-18.48.02:616][697]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.04.13-18.48.02:660][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2017.04.13-18.48.03:111][697]LogSavePackage: Save=437.04ms
+[2017.04.13-18.48.03:111][697]LogSavePackage: Moving '../../../../Fission/Saved/ThirdPersonExampleMap_BuiltData3E9AD3264ADA86005C61EBB10E030759.tmp' to '../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2017.04.13-18.48.03:113][697]LogSavePackage:Display: Finished SavePackage ../../../../Fission/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2017.04.13-18.48.04:797][789]LogTemp: Repeting last play command: New Editor Window (PIE)
+[2017.04.13-18.48.04:815][789]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.48.04:815][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.04.13-18.48.04:816][789]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:48:04 pm)
+[2017.04.13-18.48.04:817][789]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap
+[2017.04.13-18.48.04:836][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019846s)
+[2017.04.13-18.48.04:837][789]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.48.04:838][789]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2017.04.13-18.48.04:838][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021494s)
+[2017.04.13-18.48.04:881][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.04.13-18.48.04:892][789]LogInit: FAudioDevice initialized.
+[2017.04.13-18.48.04:935][789]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.04.13-18.48.04:938][789]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.48.04
+[2017.04.13-18.48.04:939][789]LogWorld: Bringing up level for play took: 0.003544
+[2017.04.13-18.48.04:940][789]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.04.13-18.48.04:941][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.48.04:941][789]LogNet: GameNetDriver IpNetDriver_22 IpNetDriver listening on port 7777
+[2017.04.13-18.48.04:942][789]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: equipping...
+[2017.04.13-18.48.04:948][789]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap 0.226
+[2017.04.13-18.48.04:951][789]PIE: New page: PIE session: ThirdPersonExampleMap (13 Apr 2017 8:48:04 pm)
+[2017.04.13-18.48.05:004][789]LogNet: Browse: 127.0.0.1//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2017.04.13-18.48.05:004][789]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.04.13-18.48.05:004][789]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.48.05:005][789]LogNet: Game client on port 7777, rate 10000
+[2017.04.13-18.48.05:005][789]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_22, Driver: PendingNetDriver IpNetDriver_23, IsServer: NO, PC: NULL, Owner: NULL
+[2017.04.13-18.48.05:010][789]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.288
+[2017.04.13-18.48.05:023][789]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.48.05:023][789]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55085
+[2017.04.13-18.48.05:023][789]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 016183208252221120129078032217095130052120102141228148051028
+[2017.04.13-18.48.05:024][789]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 016183208252221120129078032217095130052120102141228148051028
+[2017.04.13-18.48.05:171][790]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:55085
+[2017.04.13-18.48.05:171][790]LogNet: Server accepting post-challenge connection from: 127.0.0.1:55085
+[2017.04.13-18.48.05:171][790]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.04.13-18.48.05:172][790]LogNet: NotifyAcceptedConnection: Name: ThirdPersonExampleMap, TimeStamp: 04/13/17 19:48:05, [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.48.05:172][790]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: NULL, Owner: NULL
+[2017.04.13-18.48.05:172][790]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap.ThirdPersonExampleMap: Accepted
+[2017.04.13-18.48.05:172][790]LogNet: Remote platform little endian=1
+[2017.04.13-18.48.05:172][790]LogNet: This platform little endian=1
+[2017.04.13-18.48.05:188][791]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2017.04.13-18.48.05:189][791]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap, Game: /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C)
+[2017.04.13-18.48.05:189][791]LogLoad: LoadMap: 127.0.0.1//Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap?game=/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C
+[2017.04.13-18.48.05:232][791]Cmd: MEM
+[2017.04.13-18.48.05:266][791]LogMemory: Platform Memory Stats for Windows
+[2017.04.13-18.48.05:266][791]LogMemory: Process Physical Memory: 929.36 MB used, 1238.99 MB peak
+[2017.04.13-18.48.05:266][791]LogMemory: Process Virtual Memory: 3338.42 MB used, 3885.07 MB peak
+[2017.04.13-18.48.05:266][791]LogMemory: Physical Memory: 6526.40 MB used,  1568.02 MB free, 8094.41 MB total
+[2017.04.13-18.48.05:266][791]LogMemory: Virtual Memory: 4686.52 MB used,  1568.02 MB free, 134217728.00 MB total
+[2017.04.13-18.48.05:266][791]LogMemory: 
+[2017.04.13-18.48.05:266][791]Allocator Stats for TBB: (not implemented)
+[2017.04.13-18.48.05:289][791]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.04.13-18.48.05:293][791]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2017.04.13-19.48.05
+[2017.04.13-18.48.05:294][791]LogWorld: Bringing up level for play took: 0.003319
+[2017.04.13-18.48.05:294][791]LogLoad: Took 0.105159 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_ThirdPersonExampleMap)
+[2017.04.13-18.48.05:330][792]LogNet: Client netspeed is 10000
+[2017.04.13-18.48.05:330][792]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2017.04.13-18.48.05:332][792]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.48.05:332][792]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.48.05:334][792]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.48.05:334][792]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.48.05:335][792]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.48.05:337][792]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Server: equipping...
+[2017.04.13-18.48.05:337][792]LogNet: Join succeeded: 279
+[2017.04.13-18.48.05:407][793]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Branch in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.48.05:407][793]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CameraBoom from function: 'ExecuteUbergraph_ThirdPerson_AnimBP' from node: Set NeckInputRotation in graph: EventGraph in object: ThirdPerson_AnimBP with description: Accessed None trying to read property CameraBoom
+[2017.04.13-18.48.05:408][793]LogSpawn:Warning: SpawnActor failed because we are running a ConstructionScript (PrimaryWeaponBP_C)
+[2017.04.13-18.48.05:408][793]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Set Owning Pawn in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.48.05:408][793]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue from function: 'GiveDefaultWeapons' from node: Attach to Owner Holster in graph: GiveDefaultWeapons in object: ThirdPersonCharacter with description: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+[2017.04.13-18.48.05:410][793]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Client 1: equipping...
+[2017.04.13-18.48.05:410][793]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: equipping...
+[2017.04.13-18.48.07:543][901]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.07:561][902]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.07:703][909]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.07:847][917]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.08:022][926]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.08:171][934]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.08:303][941]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.08:436][948]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.10:365][ 51]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.10:547][ 61]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.10:688][ 68]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.10:823][ 75]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.10:972][ 83]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.11:141][ 92]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.11:288][100]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.11:424][107]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.11:555][114]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.11:572][115]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.12:514][165]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.12:626][171]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.12:783][179]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.12:929][187]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.13:087][195]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.13:105][196]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.13:250][204]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.14:468][267]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.14:487][268]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.14:704][279]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.14:778][283]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.15:621][327]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.15:924][343]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.15:988][346]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.16:246][360]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: right
+[2017.04.13-18.48.16:517][374]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.16:537][375]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: left
+[2017.04.13-18.48.16:772][387]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Client 1: left
+[2017.04.13-18.48.16:790][388]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.16:808][389]LogBlueprintUserMessages: [ThirdPerson_AnimBP_C_0] Server: right
+[2017.04.13-18.48.19:019][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.48.19:202][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2017.04.13-18.48.19:237][505]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.48.19:237][505]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: None, Owner: None, Channels: 3, Time: 2017.04.13-18.48.19
+[2017.04.13-18.48.19:237][505]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:55085, Name: IpConnection_23, Driver: GameNetDriver IpNetDriver_22, IsServer: YES, PC: None, Owner: None
+[2017.04.13-18.48.19:237][505]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.48.19:237][505]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: None, Owner: None, Channels: 9, Time: 2017.04.13-18.48.19
+[2017.04.13-18.48.19:237][505]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_22, Driver: GameNetDriver IpNetDriver_23, IsServer: NO, PC: None, Owner: None
+[2017.04.13-18.48.19:241][505]LogExit: GameNetDriver None shut down
+[2017.04.13-18.48.19:241][505]LogExit: GameNetDriver None shut down
