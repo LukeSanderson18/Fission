@@ -113,3 +113,7 @@ $RECYCLE.BIN/
 *.lnk
 Saved/Logs/GoneFission2.log
 *.log
+*.bin
+Saved/Logs/GoneFission2.log
+*.ini
+Saved/AutoScreenshot.png
