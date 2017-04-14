@@ -113,3 +113,8 @@ $RECYCLE.BIN/
 *.lnk
 Saved/Logs/GoneFission2.log
 *.log
+*.bin
+Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
+*.ini
+Saved/Config/Windows/Engine.ini
+*.log
