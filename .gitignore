@@ -111,3 +111,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Intermediate/CachedAssetRegistry.bin
+Intermediate/CachedAssetRegistry.bin
+Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
