@@ -118,3 +118,6 @@ Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini
 *.ini
 Saved/Config/Windows/Engine.ini
 *.log
+Saved/AutoScreenshot.png
+Saved/AutoScreenshot.png
+*.bin
