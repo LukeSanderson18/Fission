@@ -111,3 +111,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Intermediate/CachedAssetRegistry.bin
+*.bin
+Intermediate/CachedAssetRegistry.bin
+*.png
+Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.log
